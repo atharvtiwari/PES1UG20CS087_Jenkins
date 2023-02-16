@@ -25,7 +25,6 @@ pipeline
             steps
             {
                 echo 'deployment successful'
-                sh 'exit 1'
             }
         }
     }
